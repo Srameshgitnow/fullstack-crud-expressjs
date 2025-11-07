@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+db.json          # optional: ignore local DB file
+.vscode/
+*.log
